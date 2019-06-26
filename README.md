@@ -1,0 +1,1 @@
+# docker-elasticsearch-with-repository-s3
